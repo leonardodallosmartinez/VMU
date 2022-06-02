@@ -6,7 +6,7 @@ Proyecto: Desarrollo de un videojuego en **Unity** como material didactico para 
 Herramientas utilizadas: Unity, C#, 3dMax.
 
 ## Descarga
-Descaraga para jugarlo con el ejecutable de unity (tener unity instalado)
+Descarga para jugarlo con el ejecutable de unity (se debe tener unity instalado).
 
 ## Juego online
 
