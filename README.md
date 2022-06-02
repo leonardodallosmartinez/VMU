@@ -9,9 +9,9 @@ Herramientas utilizadas: Unity, C#, 3dMax.
 Descarga para jugarlo con el ejecutable de unity (se debe tener unity instalado).
 
 ## Juego online
+Proximamente
 
 ## Documentación del proyecto
-
 
 ## Contactame
 leo3.14@hotmail.com 
